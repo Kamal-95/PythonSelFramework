@@ -1,0 +1,1430 @@
+2024-04-16 15:17:48,296 : INFO : test_formSubmission : First Name is = kajal
+2024-04-16 15:17:48,380 : INFO : test_formSubmission : Email is = kajal25@gmail.com
+2024-04-16 15:17:48,454 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-16 15:17:48,546 : INFO : test_formSubmission : Gender is = Female
+2024-04-16 15:17:48,697 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-16 15:17:53,829 : INFO : test_formSubmission : First Name is = kamal
+2024-04-16 15:17:53,829 : INFO : test_formSubmission : First Name is = kamal
+2024-04-16 15:17:53,878 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-04-16 15:17:53,878 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-04-16 15:17:53,945 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-16 15:17:53,945 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-16 15:17:54,020 : INFO : test_formSubmission : Gender is = Male
+2024-04-16 15:17:54,020 : INFO : test_formSubmission : Gender is = Male
+2024-04-16 15:17:54,115 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-16 15:17:54,115 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-16 15:18:02,053 : INFO : test_e2e : Getting all the Card titles
+2024-04-16 15:18:02,080 : INFO : test_e2e : iphone X
+2024-04-16 15:18:02,090 : INFO : test_e2e : Samsung Note 8
+2024-04-16 15:18:02,096 : INFO : test_e2e : Nokia Edge
+2024-04-16 15:18:02,102 : INFO : test_e2e : Blackberry
+2024-04-16 15:18:07,697 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-16 15:20:40,289 : INFO : test_formSubmission : First Name is = kajal
+2024-04-16 15:20:40,368 : INFO : test_formSubmission : Email is = kajal25@gmail.com
+2024-04-16 15:20:40,436 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-16 15:20:40,524 : INFO : test_formSubmission : Gender is = Female
+2024-04-16 15:20:40,675 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-16 15:20:45,789 : INFO : test_formSubmission : First Name is = kamal
+2024-04-16 15:20:45,789 : INFO : test_formSubmission : First Name is = kamal
+2024-04-16 15:20:45,840 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-04-16 15:20:45,840 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-04-16 15:20:45,904 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-16 15:20:45,904 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-16 15:20:45,978 : INFO : test_formSubmission : Gender is = Male
+2024-04-16 15:20:45,978 : INFO : test_formSubmission : Gender is = Male
+2024-04-16 15:20:46,077 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-16 15:20:46,077 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-16 15:20:53,606 : INFO : test_e2e : Getting all the Card titles
+2024-04-16 15:20:53,631 : INFO : test_e2e : iphone X
+2024-04-16 15:20:53,636 : INFO : test_e2e : Samsung Note 8
+2024-04-16 15:20:53,642 : INFO : test_e2e : Nokia Edge
+2024-04-16 15:20:53,648 : INFO : test_e2e : Blackberry
+2024-04-16 15:20:59,229 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-16 17:14:05,385 : INFO : test_formSubmission : First Name is = kajal
+2024-04-16 17:14:05,464 : INFO : test_formSubmission : Email is = kajal25@gmail.com
+2024-04-16 17:14:05,541 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-16 17:14:05,641 : INFO : test_formSubmission : Gender is = Female
+2024-04-16 17:14:05,803 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-16 17:14:10,939 : INFO : test_formSubmission : First Name is = kamal
+2024-04-16 17:14:10,939 : INFO : test_formSubmission : First Name is = kamal
+2024-04-16 17:14:10,981 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-04-16 17:14:10,981 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-04-16 17:14:11,048 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-16 17:14:11,048 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-16 17:14:11,130 : INFO : test_formSubmission : Gender is = Male
+2024-04-16 17:14:11,130 : INFO : test_formSubmission : Gender is = Male
+2024-04-16 17:14:11,231 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-16 17:14:11,231 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-16 17:14:18,947 : INFO : test_e2e : Getting all the Card titles
+2024-04-16 17:14:18,973 : INFO : test_e2e : iphone X
+2024-04-16 17:14:18,979 : INFO : test_e2e : Samsung Note 8
+2024-04-16 17:14:18,983 : INFO : test_e2e : Nokia Edge
+2024-04-16 17:14:18,989 : INFO : test_e2e : Blackberry
+2024-04-16 17:14:24,568 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-16 17:29:36,699 : INFO : test_formSubmission : First Name is = kajal
+2024-04-16 17:29:36,778 : INFO : test_formSubmission : Email is = kajal25@gmail.com
+2024-04-16 17:29:36,850 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-16 17:29:36,939 : INFO : test_formSubmission : Gender is = Female
+2024-04-16 17:29:37,081 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-16 17:29:42,199 : INFO : test_formSubmission : First Name is = kamal
+2024-04-16 17:29:42,199 : INFO : test_formSubmission : First Name is = kamal
+2024-04-16 17:29:42,245 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-04-16 17:29:42,245 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-04-16 17:29:42,307 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-16 17:29:42,307 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-16 17:29:42,380 : INFO : test_formSubmission : Gender is = Male
+2024-04-16 17:29:42,380 : INFO : test_formSubmission : Gender is = Male
+2024-04-16 17:29:42,473 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-16 17:29:42,473 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-16 17:29:52,007 : INFO : test_e2e : Getting all the Card titles
+2024-04-16 17:29:52,037 : INFO : test_e2e : iphone X
+2024-04-16 17:29:52,045 : INFO : test_e2e : Samsung Note 8
+2024-04-16 17:29:52,050 : INFO : test_e2e : Nokia Edge
+2024-04-16 17:29:52,056 : INFO : test_e2e : Blackberry
+2024-04-16 17:29:57,638 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-29 19:07:57,353 : INFO : test_formSubmission : First Name is = kajal
+2024-04-29 19:07:57,536 : INFO : test_formSubmission : Email is = kajal25@gmail.com
+2024-04-29 19:07:57,632 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-29 19:07:57,752 : INFO : test_formSubmission : Gender is = Female
+2024-04-29 19:07:58,013 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-29 19:08:03,213 : INFO : test_formSubmission : First Name is = kamal
+2024-04-29 19:08:03,213 : INFO : test_formSubmission : First Name is = kamal
+2024-04-29 19:08:03,423 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-04-29 19:08:03,423 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-04-29 19:08:03,593 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-29 19:08:03,593 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-29 19:08:03,815 : INFO : test_formSubmission : Gender is = Male
+2024-04-29 19:08:03,815 : INFO : test_formSubmission : Gender is = Male
+2024-04-29 19:08:04,152 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-29 19:08:04,152 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-29 19:08:13,804 : INFO : test_e2e : Getting all the Card titles
+2024-04-29 19:08:13,861 : INFO : test_e2e : iphone X
+2024-04-29 19:08:13,880 : INFO : test_e2e : Samsung Note 8
+2024-04-29 19:08:13,900 : INFO : test_e2e : Nokia Edge
+2024-04-29 19:08:13,922 : INFO : test_e2e : Blackberry
+2024-04-29 19:08:20,046 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-30 11:54:39,035 : INFO : test_formSubmission : First Name is = kajal
+2024-04-30 11:54:39,131 : INFO : test_formSubmission : Email is = kajal25@gmail.com
+2024-04-30 11:54:39,238 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-30 11:54:39,402 : INFO : test_formSubmission : Gender is = Female
+2024-04-30 11:54:39,700 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-30 11:54:44,947 : INFO : test_formSubmission : First Name is = kamal
+2024-04-30 11:54:44,947 : INFO : test_formSubmission : First Name is = kamal
+2024-04-30 11:54:45,121 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-04-30 11:54:45,121 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-04-30 11:54:45,300 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-30 11:54:45,300 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-30 11:54:45,546 : INFO : test_formSubmission : Gender is = Male
+2024-04-30 11:54:45,546 : INFO : test_formSubmission : Gender is = Male
+2024-04-30 11:54:45,881 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-30 11:54:45,881 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-30 11:54:54,333 : INFO : test_e2e : Getting all the Card titles
+2024-04-30 11:54:54,389 : INFO : test_e2e : iphone X
+2024-04-30 11:54:54,408 : INFO : test_e2e : Samsung Note 8
+2024-04-30 11:54:54,428 : INFO : test_e2e : Nokia Edge
+2024-04-30 11:54:54,449 : INFO : test_e2e : Blackberry
+2024-04-30 11:55:00,571 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-30 11:57:55,762 : INFO : test_formSubmission : First Name is = kajal
+2024-04-30 11:57:55,884 : INFO : test_formSubmission : Email is = kajal25@gmail.com
+2024-04-30 11:57:55,992 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-30 11:57:56,094 : INFO : test_formSubmission : Gender is = Female
+2024-04-30 11:57:56,393 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-30 11:58:01,560 : INFO : test_formSubmission : First Name is = kamal
+2024-04-30 11:58:01,560 : INFO : test_formSubmission : First Name is = kamal
+2024-04-30 11:58:01,710 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-04-30 11:58:01,710 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-04-30 11:58:01,895 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-30 11:58:01,895 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-30 11:58:02,150 : INFO : test_formSubmission : Gender is = Male
+2024-04-30 11:58:02,150 : INFO : test_formSubmission : Gender is = Male
+2024-04-30 11:58:02,477 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-30 11:58:02,477 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-30 11:58:10,824 : INFO : test_e2e : Getting all the Card titles
+2024-04-30 11:58:10,865 : INFO : test_e2e : iphone X
+2024-04-30 11:58:10,878 : INFO : test_e2e : Samsung Note 8
+2024-04-30 11:58:10,891 : INFO : test_e2e : Nokia Edge
+2024-04-30 11:58:10,904 : INFO : test_e2e : Blackberry
+2024-04-30 11:58:16,845 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-30 12:00:51,014 : INFO : test_formSubmission : First Name is = kajal
+2024-04-30 12:00:51,187 : INFO : test_formSubmission : Email is = kajal25@gmail.com
+2024-04-30 12:00:51,249 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-30 12:00:51,507 : INFO : test_formSubmission : Gender is = Female
+2024-04-30 12:00:52,330 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-30 12:00:59,116 : INFO : test_formSubmission : First Name is = kamal
+2024-04-30 12:00:59,116 : INFO : test_formSubmission : First Name is = kamal
+2024-04-30 12:00:59,157 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-04-30 12:00:59,157 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-04-30 12:00:59,187 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-30 12:00:59,187 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-30 12:00:59,442 : INFO : test_formSubmission : Gender is = Male
+2024-04-30 12:00:59,442 : INFO : test_formSubmission : Gender is = Male
+2024-04-30 12:01:00,003 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-30 12:01:00,003 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-30 12:01:17,309 : INFO : test_e2e : Getting all the Card titles
+2024-04-30 12:01:17,346 : INFO : test_e2e : iphone X
+2024-04-30 12:01:17,364 : INFO : test_e2e : Samsung Note 8
+2024-04-30 12:01:17,378 : INFO : test_e2e : Nokia Edge
+2024-04-30 12:01:17,389 : INFO : test_e2e : Blackberry
+2024-04-30 12:01:24,334 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-30 12:01:38,711 : INFO : test_formSubmission : First Name is = kajal
+2024-04-30 12:01:38,844 : INFO : test_formSubmission : Email is = kajal25@gmail.com
+2024-04-30 12:01:38,903 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-30 12:01:39,192 : INFO : test_formSubmission : Gender is = Female
+2024-04-30 12:01:39,985 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-30 12:01:45,571 : INFO : test_formSubmission : First Name is = kamal
+2024-04-30 12:01:45,571 : INFO : test_formSubmission : First Name is = kamal
+2024-04-30 12:01:45,639 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-04-30 12:01:45,639 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-04-30 12:01:45,693 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-30 12:01:45,693 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-30 12:01:45,958 : INFO : test_formSubmission : Gender is = Male
+2024-04-30 12:01:45,958 : INFO : test_formSubmission : Gender is = Male
+2024-04-30 12:01:46,502 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-30 12:01:46,502 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-30 12:02:02,207 : INFO : test_e2e : Getting all the Card titles
+2024-04-30 12:02:02,262 : INFO : test_e2e : iphone X
+2024-04-30 12:02:02,308 : INFO : test_e2e : Samsung Note 8
+2024-04-30 12:02:02,334 : INFO : test_e2e : Nokia Edge
+2024-04-30 12:02:02,358 : INFO : test_e2e : Blackberry
+2024-04-30 12:02:09,474 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-30 12:08:35,383 : INFO : test_formSubmission : First Name is = kajal
+2024-04-30 12:08:35,450 : INFO : test_formSubmission : Email is = kajal25@gmail.com
+2024-04-30 12:08:35,468 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-30 12:08:35,700 : INFO : test_formSubmission : Gender is = Female
+2024-04-30 12:08:36,434 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-30 12:08:41,945 : INFO : test_formSubmission : First Name is = kamal
+2024-04-30 12:08:41,945 : INFO : test_formSubmission : First Name is = kamal
+2024-04-30 12:08:41,971 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-04-30 12:08:41,971 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-04-30 12:08:41,993 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-30 12:08:41,993 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-30 12:08:42,226 : INFO : test_formSubmission : Gender is = Male
+2024-04-30 12:08:42,226 : INFO : test_formSubmission : Gender is = Male
+2024-04-30 12:08:42,710 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-30 12:08:42,710 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-30 12:08:55,996 : INFO : test_e2e : Getting all the Card titles
+2024-04-30 12:08:56,007 : INFO : test_e2e : iphone X
+2024-04-30 12:08:56,015 : INFO : test_e2e : Samsung Note 8
+2024-04-30 12:08:56,023 : INFO : test_e2e : Nokia Edge
+2024-04-30 12:08:56,031 : INFO : test_e2e : Blackberry
+2024-04-30 12:09:02,909 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-30 15:42:55,799 : INFO : test_formSubmission : First Name is = kajal
+2024-04-30 15:42:55,876 : INFO : test_formSubmission : Email is = kajal25@gmail.com
+2024-04-30 15:42:55,941 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-30 15:42:56,023 : INFO : test_formSubmission : Gender is = Female
+2024-04-30 15:42:56,174 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-30 15:43:01,334 : INFO : test_formSubmission : First Name is = kamal
+2024-04-30 15:43:01,334 : INFO : test_formSubmission : First Name is = kamal
+2024-04-30 15:43:01,383 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-04-30 15:43:01,383 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-04-30 15:43:01,449 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-30 15:43:01,449 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-30 15:43:01,522 : INFO : test_formSubmission : Gender is = Male
+2024-04-30 15:43:01,522 : INFO : test_formSubmission : Gender is = Male
+2024-04-30 15:43:01,621 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-30 15:43:01,621 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-30 15:43:09,650 : INFO : test_e2e : Getting all the Card titles
+2024-04-30 15:43:09,675 : INFO : test_e2e : iphone X
+2024-04-30 15:43:09,680 : INFO : test_e2e : Samsung Note 8
+2024-04-30 15:43:09,686 : INFO : test_e2e : Nokia Edge
+2024-04-30 15:43:09,691 : INFO : test_e2e : Blackberry
+2024-04-30 15:43:15,259 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-30 15:43:38,486 : INFO : test_formSubmission : First Name is = kajal
+2024-04-30 15:43:38,552 : INFO : test_formSubmission : Email is = kajal25@gmail.com
+2024-04-30 15:43:38,572 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-30 15:43:38,803 : INFO : test_formSubmission : Gender is = Female
+2024-04-30 15:43:39,533 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-30 15:43:45,151 : INFO : test_formSubmission : First Name is = kamal
+2024-04-30 15:43:45,151 : INFO : test_formSubmission : First Name is = kamal
+2024-04-30 15:43:45,173 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-04-30 15:43:45,173 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-04-30 15:43:45,193 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-30 15:43:45,193 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-30 15:43:45,422 : INFO : test_formSubmission : Gender is = Male
+2024-04-30 15:43:45,422 : INFO : test_formSubmission : Gender is = Male
+2024-04-30 15:43:45,903 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-30 15:43:45,903 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-30 15:43:58,942 : INFO : test_e2e : Getting all the Card titles
+2024-04-30 15:43:58,959 : INFO : test_e2e : iphone X
+2024-04-30 15:43:58,970 : INFO : test_e2e : Samsung Note 8
+2024-04-30 15:43:58,987 : INFO : test_e2e : Nokia Edge
+2024-04-30 15:43:58,996 : INFO : test_e2e : Blackberry
+2024-04-30 15:44:05,869 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-30 15:52:13,777 : INFO : test_formSubmission : First Name is = kajal
+2024-04-30 15:52:13,853 : INFO : test_formSubmission : Email is = kajal25@gmail.com
+2024-04-30 15:52:13,918 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-30 15:52:14,001 : INFO : test_formSubmission : Gender is = Female
+2024-04-30 15:52:14,147 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-30 15:52:19,273 : INFO : test_formSubmission : First Name is = kamal
+2024-04-30 15:52:19,273 : INFO : test_formSubmission : First Name is = kamal
+2024-04-30 15:52:19,322 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-04-30 15:52:19,322 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-04-30 15:52:19,401 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-30 15:52:19,401 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-30 15:52:19,481 : INFO : test_formSubmission : Gender is = Male
+2024-04-30 15:52:19,481 : INFO : test_formSubmission : Gender is = Male
+2024-04-30 15:52:19,576 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-30 15:52:19,576 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-30 16:07:24,918 : INFO : test_formSubmission : First Name is = kajal
+2024-04-30 16:07:25,001 : INFO : test_formSubmission : Email is = kajal25@gmail.com
+2024-04-30 16:07:25,090 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-30 16:07:25,194 : INFO : test_formSubmission : Gender is = Female
+2024-04-30 16:07:25,348 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-30 16:07:32,450 : INFO : test_formSubmission : First Name is = kamal
+2024-04-30 16:07:32,450 : INFO : test_formSubmission : First Name is = kamal
+2024-04-30 16:07:32,507 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-04-30 16:07:32,507 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-04-30 16:07:32,575 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-30 16:07:32,575 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-30 16:07:32,658 : INFO : test_formSubmission : Gender is = Male
+2024-04-30 16:07:32,658 : INFO : test_formSubmission : Gender is = Male
+2024-04-30 16:07:32,766 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-30 16:07:32,766 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-30 16:07:43,573 : INFO : test_e2e : Getting all the Card titles
+2024-04-30 16:07:43,595 : INFO : test_e2e : iphone X
+2024-04-30 16:07:43,601 : INFO : test_e2e : Samsung Note 8
+2024-04-30 16:07:43,606 : INFO : test_e2e : Nokia Edge
+2024-04-30 16:07:43,611 : INFO : test_e2e : Blackberry
+2024-04-30 16:07:49,221 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-30 16:08:56,630 : INFO : test_formSubmission : First Name is = kajal
+2024-04-30 16:08:56,705 : INFO : test_formSubmission : Email is = kajal25@gmail.com
+2024-04-30 16:08:56,799 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-30 16:08:56,916 : INFO : test_formSubmission : Gender is = Female
+2024-04-30 16:08:57,077 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-30 16:09:02,207 : INFO : test_formSubmission : First Name is = kamal
+2024-04-30 16:09:02,207 : INFO : test_formSubmission : First Name is = kamal
+2024-04-30 16:09:02,259 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-04-30 16:09:02,259 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-04-30 16:09:02,309 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-30 16:09:02,309 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-30 16:09:02,409 : INFO : test_formSubmission : Gender is = Male
+2024-04-30 16:09:02,409 : INFO : test_formSubmission : Gender is = Male
+2024-04-30 16:09:02,528 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-30 16:09:02,528 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-30 16:09:12,611 : INFO : test_e2e : Getting all the Card titles
+2024-04-30 16:09:12,633 : INFO : test_e2e : iphone X
+2024-04-30 16:09:12,640 : INFO : test_e2e : Samsung Note 8
+2024-04-30 16:09:12,646 : INFO : test_e2e : Nokia Edge
+2024-04-30 16:09:12,652 : INFO : test_e2e : Blackberry
+2024-04-30 16:09:18,222 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-30 16:16:37,690 : INFO : test_formSubmission : First Name is = kajal
+2024-04-30 16:16:37,766 : INFO : test_formSubmission : Email is = kajal25@gmail.com
+2024-04-30 16:16:37,839 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-30 16:16:37,935 : INFO : test_formSubmission : Gender is = Female
+2024-04-30 16:16:38,096 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-30 16:16:43,256 : INFO : test_formSubmission : First Name is = kamal
+2024-04-30 16:16:43,256 : INFO : test_formSubmission : First Name is = kamal
+2024-04-30 16:16:43,307 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-04-30 16:16:43,307 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-04-30 16:16:43,378 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-30 16:16:43,378 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-30 16:16:43,465 : INFO : test_formSubmission : Gender is = Male
+2024-04-30 16:16:43,465 : INFO : test_formSubmission : Gender is = Male
+2024-04-30 16:16:43,576 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-30 16:16:43,576 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-30 16:16:51,337 : INFO : test_e2e : Getting all the Card titles
+2024-04-30 16:16:51,364 : INFO : test_e2e : iphone X
+2024-04-30 16:16:51,370 : INFO : test_e2e : Samsung Note 8
+2024-04-30 16:16:51,376 : INFO : test_e2e : Nokia Edge
+2024-04-30 16:16:51,382 : INFO : test_e2e : Blackberry
+2024-04-30 16:16:57,019 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-30 16:18:10,540 : INFO : test_formSubmission : First Name is = kajal
+2024-04-30 16:18:10,613 : INFO : test_formSubmission : Email is = kajal25@gmail.com
+2024-04-30 16:18:10,690 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-30 16:18:10,781 : INFO : test_formSubmission : Gender is = Female
+2024-04-30 16:18:10,926 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-30 16:18:16,077 : INFO : test_formSubmission : First Name is = kamal
+2024-04-30 16:18:16,077 : INFO : test_formSubmission : First Name is = kamal
+2024-04-30 16:18:16,124 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-04-30 16:18:16,124 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-04-30 16:18:16,185 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-30 16:18:16,185 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-30 16:18:16,261 : INFO : test_formSubmission : Gender is = Male
+2024-04-30 16:18:16,261 : INFO : test_formSubmission : Gender is = Male
+2024-04-30 16:18:16,357 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-30 16:18:16,357 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-30 16:18:23,973 : INFO : test_e2e : Getting all the Card titles
+2024-04-30 16:18:23,998 : INFO : test_e2e : iphone X
+2024-04-30 16:18:24,005 : INFO : test_e2e : Samsung Note 8
+2024-04-30 16:18:24,011 : INFO : test_e2e : Nokia Edge
+2024-04-30 16:18:24,015 : INFO : test_e2e : Blackberry
+2024-04-30 16:18:29,576 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-30 16:19:00,152 : INFO : test_formSubmission : First Name is = kajal
+2024-04-30 16:19:00,229 : INFO : test_formSubmission : Email is = kajal25@gmail.com
+2024-04-30 16:19:00,301 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-30 16:19:00,393 : INFO : test_formSubmission : Gender is = Female
+2024-04-30 16:19:00,550 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-30 16:19:05,775 : INFO : test_formSubmission : First Name is = kamal
+2024-04-30 16:19:05,775 : INFO : test_formSubmission : First Name is = kamal
+2024-04-30 16:19:05,821 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-04-30 16:19:05,821 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-04-30 16:19:05,885 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-30 16:19:05,885 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-30 16:19:05,963 : INFO : test_formSubmission : Gender is = Male
+2024-04-30 16:19:05,963 : INFO : test_formSubmission : Gender is = Male
+2024-04-30 16:19:06,058 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-30 16:19:06,058 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-30 16:19:13,845 : INFO : test_e2e : Getting all the Card titles
+2024-04-30 16:19:13,869 : INFO : test_e2e : iphone X
+2024-04-30 16:19:13,875 : INFO : test_e2e : Samsung Note 8
+2024-04-30 16:19:13,881 : INFO : test_e2e : Nokia Edge
+2024-04-30 16:19:13,885 : INFO : test_e2e : Blackberry
+2024-04-30 16:19:19,476 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-30 16:19:36,925 : INFO : test_formSubmission : First Name is = kajal
+2024-04-30 16:19:36,997 : INFO : test_formSubmission : Email is = kajal25@gmail.com
+2024-04-30 16:19:37,070 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-30 16:19:37,153 : INFO : test_formSubmission : Gender is = Female
+2024-04-30 16:19:37,305 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-30 16:19:42,472 : INFO : test_formSubmission : First Name is = kamal
+2024-04-30 16:19:42,472 : INFO : test_formSubmission : First Name is = kamal
+2024-04-30 16:19:42,522 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-04-30 16:19:42,522 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-04-30 16:19:42,591 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-30 16:19:42,591 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-30 16:19:42,666 : INFO : test_formSubmission : Gender is = Male
+2024-04-30 16:19:42,666 : INFO : test_formSubmission : Gender is = Male
+2024-04-30 16:19:42,772 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-30 16:19:42,772 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-30 16:19:53,453 : INFO : test_e2e : Getting all the Card titles
+2024-04-30 16:19:53,475 : INFO : test_e2e : iphone X
+2024-04-30 16:19:53,480 : INFO : test_e2e : Samsung Note 8
+2024-04-30 16:19:53,486 : INFO : test_e2e : Nokia Edge
+2024-04-30 16:19:53,493 : INFO : test_e2e : Blackberry
+2024-04-30 16:19:59,050 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-30 16:20:08,962 : INFO : test_formSubmission : First Name is = kajal
+2024-04-30 16:20:09,038 : INFO : test_formSubmission : Email is = kajal25@gmail.com
+2024-04-30 16:20:09,107 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-30 16:20:09,187 : INFO : test_formSubmission : Gender is = Female
+2024-04-30 16:20:09,334 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-30 16:20:14,564 : INFO : test_formSubmission : First Name is = kamal
+2024-04-30 16:20:14,564 : INFO : test_formSubmission : First Name is = kamal
+2024-04-30 16:20:14,634 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-04-30 16:20:14,634 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-04-30 16:20:14,708 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-30 16:20:14,708 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-30 16:20:14,820 : INFO : test_formSubmission : Gender is = Male
+2024-04-30 16:20:14,820 : INFO : test_formSubmission : Gender is = Male
+2024-04-30 16:20:14,973 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-30 16:20:14,973 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-30 16:20:25,971 : INFO : test_e2e : Getting all the Card titles
+2024-04-30 16:20:25,994 : INFO : test_e2e : iphone X
+2024-04-30 16:20:25,999 : INFO : test_e2e : Samsung Note 8
+2024-04-30 16:20:26,005 : INFO : test_e2e : Nokia Edge
+2024-04-30 16:20:26,010 : INFO : test_e2e : Blackberry
+2024-04-30 16:20:31,767 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-30 16:35:15,582 : INFO : test_formSubmission : First Name is = kajal
+2024-04-30 16:35:15,647 : INFO : test_formSubmission : Email is = kajal25@gmail.com
+2024-04-30 16:35:15,667 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-30 16:35:15,900 : INFO : test_formSubmission : Gender is = Female
+2024-04-30 16:35:16,633 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-30 16:35:22,134 : INFO : test_formSubmission : First Name is = kamal
+2024-04-30 16:35:22,134 : INFO : test_formSubmission : First Name is = kamal
+2024-04-30 16:35:22,159 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-04-30 16:35:22,159 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-04-30 16:35:22,178 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-30 16:35:22,178 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-30 16:35:22,407 : INFO : test_formSubmission : Gender is = Male
+2024-04-30 16:35:22,407 : INFO : test_formSubmission : Gender is = Male
+2024-04-30 16:35:22,879 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-30 16:35:22,879 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-30 16:35:35,780 : INFO : test_e2e : Getting all the Card titles
+2024-04-30 16:35:35,810 : INFO : test_e2e : iphone X
+2024-04-30 16:35:35,822 : INFO : test_e2e : Samsung Note 8
+2024-04-30 16:35:35,866 : INFO : test_e2e : Nokia Edge
+2024-04-30 16:35:35,883 : INFO : test_e2e : Blackberry
+2024-04-30 16:35:42,767 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-30 16:37:24,847 : INFO : test_formSubmission : First Name is = kajal
+2024-04-30 16:37:24,923 : INFO : test_formSubmission : Email is = kajal25@gmail.com
+2024-04-30 16:37:25,017 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-30 16:37:25,125 : INFO : test_formSubmission : Gender is = Female
+2024-04-30 16:37:25,319 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-30 16:37:30,466 : INFO : test_formSubmission : First Name is = kamal
+2024-04-30 16:37:30,466 : INFO : test_formSubmission : First Name is = kamal
+2024-04-30 16:37:30,520 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-04-30 16:37:30,520 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-04-30 16:37:30,620 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-30 16:37:30,620 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-30 16:37:30,712 : INFO : test_formSubmission : Gender is = Male
+2024-04-30 16:37:30,712 : INFO : test_formSubmission : Gender is = Male
+2024-04-30 16:37:30,815 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-30 16:37:30,815 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-30 16:37:40,530 : INFO : test_e2e : Getting all the Card titles
+2024-04-30 16:37:40,553 : INFO : test_e2e : iphone X
+2024-04-30 16:37:40,559 : INFO : test_e2e : Samsung Note 8
+2024-04-30 16:37:40,563 : INFO : test_e2e : Nokia Edge
+2024-04-30 16:37:40,569 : INFO : test_e2e : Blackberry
+2024-04-30 16:37:46,168 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-30 18:24:32,517 : INFO : test_formSubmission : First Name is = kajal
+2024-04-30 18:24:32,595 : INFO : test_formSubmission : Email is = kajal25@gmail.com
+2024-04-30 18:24:32,662 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-30 18:24:32,746 : INFO : test_formSubmission : Gender is = Female
+2024-04-30 18:24:32,898 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-30 18:24:38,036 : INFO : test_formSubmission : First Name is = kamal
+2024-04-30 18:24:38,036 : INFO : test_formSubmission : First Name is = kamal
+2024-04-30 18:24:38,084 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-04-30 18:24:38,084 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-04-30 18:24:38,147 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-30 18:24:38,147 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-30 18:24:38,221 : INFO : test_formSubmission : Gender is = Male
+2024-04-30 18:24:38,221 : INFO : test_formSubmission : Gender is = Male
+2024-04-30 18:24:38,318 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-30 18:24:38,318 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-30 18:24:45,760 : INFO : test_e2e : Getting all the Card titles
+2024-04-30 18:24:45,781 : INFO : test_e2e : iphone X
+2024-04-30 18:24:45,787 : INFO : test_e2e : Samsung Note 8
+2024-04-30 18:24:45,794 : INFO : test_e2e : Nokia Edge
+2024-04-30 18:24:45,800 : INFO : test_e2e : Blackberry
+2024-04-30 18:24:51,331 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-01 11:52:36,416 : INFO : test_formSubmission : First Name is = kajal
+2024-05-01 11:52:36,506 : INFO : test_formSubmission : Email is = kajal25@gmail.com
+2024-05-01 11:52:36,582 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-05-01 11:52:36,673 : INFO : test_formSubmission : Gender is = Female
+2024-05-01 11:52:36,834 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-05-01 11:52:41,972 : INFO : test_formSubmission : First Name is = kamal
+2024-05-01 11:52:41,972 : INFO : test_formSubmission : First Name is = kamal
+2024-05-01 11:52:42,024 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-05-01 11:52:42,024 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-05-01 11:52:42,121 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-05-01 11:52:42,121 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-05-01 11:52:42,203 : INFO : test_formSubmission : Gender is = Male
+2024-05-01 11:52:42,203 : INFO : test_formSubmission : Gender is = Male
+2024-05-01 11:52:42,320 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-05-01 11:52:42,320 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-05-01 11:52:52,955 : INFO : test_e2e : Getting all the Card titles
+2024-05-01 11:52:52,989 : INFO : test_e2e : iphone X
+2024-05-01 11:52:52,998 : INFO : test_e2e : Samsung Note 8
+2024-05-01 11:52:53,004 : INFO : test_e2e : Nokia Edge
+2024-05-01 11:52:53,009 : INFO : test_e2e : Blackberry
+2024-05-01 11:52:58,567 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-01 11:53:48,717 : INFO : test_formSubmission : First Name is = kajal
+2024-05-01 11:53:48,790 : INFO : test_formSubmission : Email is = kajal25@gmail.com
+2024-05-01 11:53:48,855 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-05-01 11:53:48,934 : INFO : test_formSubmission : Gender is = Female
+2024-05-01 11:53:49,083 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-05-01 11:53:54,211 : INFO : test_formSubmission : First Name is = kamal
+2024-05-01 11:53:54,211 : INFO : test_formSubmission : First Name is = kamal
+2024-05-01 11:53:54,258 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-05-01 11:53:54,258 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-05-01 11:53:54,319 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-05-01 11:53:54,319 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-05-01 11:53:54,397 : INFO : test_formSubmission : Gender is = Male
+2024-05-01 11:53:54,397 : INFO : test_formSubmission : Gender is = Male
+2024-05-01 11:53:54,492 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-05-01 11:53:54,492 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-05-01 11:54:02,443 : INFO : test_e2e : Getting all the Card titles
+2024-05-01 11:54:02,463 : INFO : test_e2e : iphone X
+2024-05-01 11:54:02,470 : INFO : test_e2e : Samsung Note 8
+2024-05-01 11:54:02,475 : INFO : test_e2e : Nokia Edge
+2024-05-01 11:54:02,475 : INFO : test_e2e : Blackberry
+2024-05-01 11:54:08,048 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-01 11:54:25,959 : INFO : test_formSubmission : First Name is = kajal
+2024-05-01 11:54:26,044 : INFO : test_formSubmission : Email is = kajal25@gmail.com
+2024-05-01 11:54:26,140 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-05-01 11:54:26,246 : INFO : test_formSubmission : Gender is = Female
+2024-05-01 11:54:26,396 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-05-01 11:54:31,529 : INFO : test_formSubmission : First Name is = kamal
+2024-05-01 11:54:31,529 : INFO : test_formSubmission : First Name is = kamal
+2024-05-01 11:54:31,578 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-05-01 11:54:31,578 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-05-01 11:54:31,665 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-05-01 11:54:31,665 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-05-01 11:54:31,754 : INFO : test_formSubmission : Gender is = Male
+2024-05-01 11:54:31,754 : INFO : test_formSubmission : Gender is = Male
+2024-05-01 11:54:31,855 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-05-01 11:54:31,855 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-05-01 11:54:41,610 : INFO : test_e2e : Getting all the Card titles
+2024-05-01 11:54:41,638 : INFO : test_e2e : iphone X
+2024-05-01 11:54:41,646 : INFO : test_e2e : Samsung Note 8
+2024-05-01 11:54:41,651 : INFO : test_e2e : Nokia Edge
+2024-05-01 11:54:41,657 : INFO : test_e2e : Blackberry
+2024-05-01 11:54:47,237 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-01 13:33:35,168 : INFO : test_formSubmission : First Name is = kajal
+2024-05-01 13:33:35,245 : INFO : test_formSubmission : Email is = kajal25@gmail.com
+2024-05-01 13:33:35,313 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-05-01 13:33:35,398 : INFO : test_formSubmission : Gender is = Female
+2024-05-01 13:33:35,543 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-05-02 18:36:16,628 : INFO : test_formSubmission : First Name is = kamal
+2024-05-02 18:36:16,734 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-05-02 18:36:16,842 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-05-02 18:36:16,965 : INFO : test_formSubmission : Gender is = male
+2024-05-02 18:36:57,151 : INFO : test_formSubmission : First Name is = kamal
+2024-05-02 18:36:57,254 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-05-02 18:36:57,336 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-05-02 18:36:57,447 : INFO : test_formSubmission : Gender is = male
+2024-05-02 18:38:42,654 : INFO : test_formSubmission : First Name is = kamal
+2024-05-02 18:38:42,768 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-05-02 18:38:42,852 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-05-02 18:38:42,994 : INFO : test_formSubmission : Gender is = male
+2024-05-02 18:39:24,638 : INFO : test_formSubmission : First Name is = kamal
+2024-05-02 18:39:24,721 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-05-02 18:39:24,911 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-05-02 18:39:25,101 : INFO : test_formSubmission : Gender is = male
+2024-05-02 18:41:23,234 : INFO : test_formSubmission : First Name is = kajal
+2024-05-02 18:41:23,366 : INFO : test_formSubmission : Email is = kajal25@gmail.com
+2024-05-02 18:41:23,453 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-05-02 18:41:23,556 : INFO : test_formSubmission : Gender is = Female
+2024-05-02 18:41:23,786 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-05-02 18:41:39,960 : INFO : test_formSubmission : First Name is = kamal
+2024-05-02 18:41:40,086 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-05-02 18:41:40,188 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-05-02 18:41:40,291 : INFO : test_formSubmission : Gender is = male
+2024-05-02 18:41:50,435 : INFO : test_formSubmission : First Name is = kajal
+2024-05-02 18:41:50,517 : INFO : test_formSubmission : Email is = kajal25@gmail.com
+2024-05-02 18:41:50,617 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-05-02 18:41:50,716 : INFO : test_formSubmission : Gender is = Female
+2024-05-02 18:41:50,948 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-05-07 11:45:23,074 : INFO : test_formSubmission : First Name is = kajal
+2024-05-07 11:45:23,140 : INFO : test_formSubmission : Email is = kajal25@gmail.com
+2024-05-07 11:45:23,208 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-05-07 11:45:23,301 : INFO : test_formSubmission : Gender is = Female
+2024-05-07 11:45:23,468 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-05-07 11:45:31,990 : INFO : test_e2e : Getting all the Card titles
+2024-05-07 11:45:32,015 : INFO : test_e2e : iphone X
+2024-05-07 11:45:32,021 : INFO : test_e2e : Samsung Note 8
+2024-05-07 11:45:32,026 : INFO : test_e2e : Nokia Edge
+2024-05-07 11:45:32,031 : INFO : test_e2e : Blackberry
+2024-05-07 11:45:37,614 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-07 11:45:54,618 : INFO : test_formSubmission : First Name is = kajal
+2024-05-07 11:45:54,711 : INFO : test_formSubmission : Email is = kajal25@gmail.com
+2024-05-07 11:45:54,786 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-05-07 11:45:54,865 : INFO : test_formSubmission : Gender is = Female
+2024-05-07 11:45:55,014 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-05-07 11:46:19,193 : INFO : test_formSubmission : First Name is = kajal
+2024-05-07 11:46:19,272 : INFO : test_formSubmission : Email is = kajal25@gmail.com
+2024-05-07 11:46:19,347 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-05-07 11:46:19,450 : INFO : test_formSubmission : Gender is = Female
+2024-05-07 11:46:19,602 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-05-07 11:46:27,179 : INFO : test_e2e : Getting all the Card titles
+2024-05-07 11:46:27,205 : INFO : test_e2e : iphone X
+2024-05-07 11:46:27,211 : INFO : test_e2e : Samsung Note 8
+2024-05-07 11:46:27,217 : INFO : test_e2e : Nokia Edge
+2024-05-07 11:46:27,222 : INFO : test_e2e : Blackberry
+2024-05-07 11:46:32,806 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-07 11:53:25,571 : INFO : test_formSubmission : First Name is = kajal
+2024-05-07 11:53:25,645 : INFO : test_formSubmission : Email is = kajal25@gmail.com
+2024-05-07 11:53:25,719 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-05-07 11:53:25,811 : INFO : test_formSubmission : Gender is = Female
+2024-05-07 11:53:25,960 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-05-07 11:53:33,479 : INFO : test_e2e : Getting all the Card titles
+2024-05-07 11:53:33,501 : INFO : test_e2e : iphone X
+2024-05-07 11:53:33,506 : INFO : test_e2e : Samsung Note 8
+2024-05-07 11:53:33,512 : INFO : test_e2e : Nokia Edge
+2024-05-07 11:53:33,517 : INFO : test_e2e : Blackberry
+2024-05-07 11:53:39,096 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-07 11:56:02,420 : INFO : test_formSubmission : First Name is = kajal
+2024-05-07 11:56:02,499 : INFO : test_formSubmission : Email is = kajal25@gmail.com
+2024-05-07 11:56:02,573 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-05-07 11:56:02,655 : INFO : test_formSubmission : Gender is = Female
+2024-05-07 11:56:02,801 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-05-07 11:56:10,551 : INFO : test_e2e : Getting all the Card titles
+2024-05-07 11:56:10,582 : INFO : test_e2e : iphone X
+2024-05-07 11:56:10,591 : INFO : test_e2e : Samsung Note 8
+2024-05-07 11:56:10,597 : INFO : test_e2e : Nokia Edge
+2024-05-07 11:56:10,602 : INFO : test_e2e : Blackberry
+2024-05-07 11:56:16,146 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-07 12:09:53,610 : INFO : test_formSubmission : First Name is = kajal
+2024-05-07 12:09:53,685 : INFO : test_formSubmission : Email is = kajal25@gmail.com
+2024-05-07 12:09:53,708 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-05-07 12:09:53,956 : INFO : test_formSubmission : Gender is = Female
+2024-05-07 12:09:54,672 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-05-07 12:10:07,518 : INFO : test_e2e : Getting all the Card titles
+2024-05-07 12:10:07,544 : INFO : test_e2e : iphone X
+2024-05-07 12:10:07,565 : INFO : test_e2e : Samsung Note 8
+2024-05-07 12:10:07,581 : INFO : test_e2e : Nokia Edge
+2024-05-07 12:10:07,596 : INFO : test_e2e : Blackberry
+2024-05-07 12:10:14,454 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-07 12:11:44,761 : INFO : test_formSubmission : First Name is = kajal
+2024-05-07 12:11:44,826 : INFO : test_formSubmission : Email is = kajal25@gmail.com
+2024-05-07 12:11:44,846 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-05-07 12:11:45,095 : INFO : test_formSubmission : Gender is = Female
+2024-05-07 12:11:45,790 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-05-07 12:11:59,399 : INFO : test_e2e : Getting all the Card titles
+2024-05-07 12:11:59,416 : INFO : test_e2e : iphone X
+2024-05-07 12:11:59,425 : INFO : test_e2e : Samsung Note 8
+2024-05-07 12:11:59,434 : INFO : test_e2e : Nokia Edge
+2024-05-07 12:11:59,442 : INFO : test_e2e : Blackberry
+2024-05-07 12:12:06,424 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-07 12:12:45,365 : INFO : test_formSubmission : First Name is = kajal
+2024-05-07 12:12:45,440 : INFO : test_formSubmission : Email is = kajal25@gmail.com
+2024-05-07 12:12:45,509 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-05-07 12:12:45,588 : INFO : test_formSubmission : Gender is = Female
+2024-05-07 12:12:45,733 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-05-07 12:12:53,454 : INFO : test_e2e : Getting all the Card titles
+2024-05-07 12:12:53,476 : INFO : test_e2e : iphone X
+2024-05-07 12:12:53,483 : INFO : test_e2e : Samsung Note 8
+2024-05-07 12:12:53,488 : INFO : test_e2e : Nokia Edge
+2024-05-07 12:12:53,493 : INFO : test_e2e : Blackberry
+2024-05-07 12:32:15,588 : INFO : test_formSubmission : First Name is = kajal
+2024-05-07 12:32:15,668 : INFO : test_formSubmission : Email is = kajal25@gmail.com
+2024-05-07 12:32:15,737 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-05-07 12:32:15,829 : INFO : test_formSubmission : Gender is = Female
+2024-05-07 12:32:15,994 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-05-07 12:32:23,729 : INFO : test_e2e : Getting all the Card titles
+2024-05-07 12:32:23,752 : INFO : test_e2e : iphone X
+2024-05-07 12:32:23,758 : INFO : test_e2e : Samsung Note 8
+2024-05-07 12:32:23,764 : INFO : test_e2e : Nokia Edge
+2024-05-07 12:32:23,772 : INFO : test_e2e : Blackberry
+2024-05-07 12:32:29,372 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-07 12:33:45,767 : INFO : test_formSubmission : First Name is = kamal
+2024-05-07 12:33:45,844 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-05-07 12:33:45,931 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-05-07 12:33:46,018 : INFO : test_formSubmission : Gender is = male
+2024-05-07 12:33:56,899 : INFO : test_e2e : Getting all the Card titles
+2024-05-07 12:33:56,938 : INFO : test_e2e : iphone X
+2024-05-07 12:33:56,947 : INFO : test_e2e : Samsung Note 8
+2024-05-07 12:33:56,954 : INFO : test_e2e : Nokia Edge
+2024-05-07 12:33:56,964 : INFO : test_e2e : Blackberry
+2024-05-07 12:34:02,600 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-07 12:35:57,489 : INFO : test_formSubmission : First Name is = kamal
+2024-05-07 12:35:57,570 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-05-07 12:35:57,637 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-05-07 12:35:57,720 : INFO : test_formSubmission : Gender is = Male
+2024-05-07 12:35:57,856 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-05-07 12:36:05,302 : INFO : test_e2e : Getting all the Card titles
+2024-05-07 12:36:05,329 : INFO : test_e2e : iphone X
+2024-05-07 12:36:05,336 : INFO : test_e2e : Samsung Note 8
+2024-05-07 12:36:05,342 : INFO : test_e2e : Nokia Edge
+2024-05-07 12:36:05,348 : INFO : test_e2e : Blackberry
+2024-05-07 12:36:10,887 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-07 13:01:19,135 : INFO : test_formSubmission : First Name is = kamal
+2024-05-07 13:01:19,207 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-05-07 13:01:19,279 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-05-07 13:01:19,371 : INFO : test_formSubmission : Gender is = Male
+2024-05-07 13:01:19,509 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-05-07 13:01:27,076 : INFO : test_e2e : Getting all the Card titles
+2024-05-07 13:01:27,101 : INFO : test_e2e : iphone X
+2024-05-07 13:01:27,109 : INFO : test_e2e : Samsung Note 8
+2024-05-07 13:01:27,114 : INFO : test_e2e : Nokia Edge
+2024-05-07 13:01:27,121 : INFO : test_e2e : Blackberry
+2024-05-07 13:01:32,709 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-07 13:02:37,557 : INFO : test_formSubmission : First Name is = komal
+2024-05-07 13:02:37,633 : INFO : test_formSubmission : Email is = kajal25@gmail.com
+2024-05-07 13:02:37,707 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-05-07 13:02:37,808 : INFO : test_formSubmission : Gender is = female
+2024-05-07 13:02:40,169 : INFO : test_e2e : Getting all the Card titles
+2024-05-07 13:02:40,196 : INFO : test_e2e : iphone X
+2024-05-07 13:02:40,202 : INFO : test_e2e : Samsung Note 8
+2024-05-07 13:02:40,207 : INFO : test_e2e : Nokia Edge
+2024-05-07 13:02:40,214 : INFO : test_e2e : Blackberry
+2024-05-07 13:02:45,796 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-07 15:10:23,112 : INFO : test_formSubmission : First Name is = komal
+2024-05-07 15:10:23,178 : INFO : test_formSubmission : Email is = kajal25@gmail.com
+2024-05-07 15:10:23,244 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-05-07 15:10:23,333 : INFO : test_formSubmission : Gender is = female
+2024-05-07 15:10:26,075 : INFO : test_e2e : Getting all the Card titles
+2024-05-07 15:10:26,101 : INFO : test_e2e : iphone X
+2024-05-07 15:10:26,107 : INFO : test_e2e : Samsung Note 8
+2024-05-07 15:10:26,113 : INFO : test_e2e : Nokia Edge
+2024-05-07 15:10:26,118 : INFO : test_e2e : Blackberry
+2024-05-07 15:10:31,694 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-07 15:13:42,782 : INFO : test_formSubmission : First Name is = komal
+2024-05-07 15:13:42,886 : INFO : test_formSubmission : Email is = kajal25@gmail.com
+2024-05-07 15:13:42,956 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-05-07 15:13:43,045 : INFO : test_formSubmission : Gender is = female
+2024-05-07 15:13:47,417 : INFO : test_e2e : Getting all the Card titles
+2024-05-07 15:13:47,443 : INFO : test_e2e : iphone X
+2024-05-07 15:13:47,452 : INFO : test_e2e : Samsung Note 8
+2024-05-07 15:13:47,458 : INFO : test_e2e : Nokia Edge
+2024-05-07 15:13:47,465 : INFO : test_e2e : Blackberry
+2024-05-07 15:13:53,048 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-07 15:15:32,712 : INFO : test_formSubmission : First Name is = kishori
+2024-05-07 15:15:32,791 : INFO : test_formSubmission : Email is = kajal25@gmail.com
+2024-05-07 15:15:32,858 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-05-07 15:15:32,946 : INFO : test_formSubmission : Gender is = female
+2024-05-07 15:15:36,645 : INFO : test_e2e : Getting all the Card titles
+2024-05-07 15:15:36,677 : INFO : test_e2e : iphone X
+2024-05-07 15:15:36,682 : INFO : test_e2e : Samsung Note 8
+2024-05-07 15:15:36,688 : INFO : test_e2e : Nokia Edge
+2024-05-07 15:15:36,693 : INFO : test_e2e : Blackberry
+2024-05-07 15:15:42,288 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-07 15:17:47,925 : INFO : test_formSubmission : First Name is = kishna
+2024-05-07 15:17:48,008 : INFO : test_formSubmission : Email is = kajal25@gmail.com
+2024-05-07 15:17:48,074 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-05-07 15:17:48,163 : INFO : test_formSubmission : Gender is = female
+2024-05-07 15:17:50,917 : INFO : test_e2e : Getting all the Card titles
+2024-05-07 15:17:50,940 : INFO : test_e2e : iphone X
+2024-05-07 15:17:50,948 : INFO : test_e2e : Samsung Note 8
+2024-05-07 15:17:50,953 : INFO : test_e2e : Nokia Edge
+2024-05-07 15:17:50,959 : INFO : test_e2e : Blackberry
+2024-05-07 15:17:56,537 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-07 15:23:30,162 : INFO : test_formSubmission : First Name is = monika
+2024-05-07 15:23:30,238 : INFO : test_formSubmission : Email is = kajal25@gmail.com
+2024-05-07 15:23:30,308 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-05-07 15:23:30,393 : INFO : test_formSubmission : Gender is = female
+2024-05-07 15:23:36,014 : INFO : test_e2e : Getting all the Card titles
+2024-05-07 15:23:36,047 : INFO : test_e2e : iphone X
+2024-05-07 15:23:36,055 : INFO : test_e2e : Samsung Note 8
+2024-05-07 15:23:36,061 : INFO : test_e2e : Nokia Edge
+2024-05-07 15:23:36,068 : INFO : test_e2e : Blackberry
+2024-05-07 15:23:41,599 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-07 15:27:14,659 : INFO : test_formSubmission : First Name is = monika
+2024-05-07 15:27:14,743 : INFO : test_formSubmission : Email is = kajal25@gmail.com
+2024-05-07 15:27:14,812 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-05-07 15:27:14,906 : INFO : test_formSubmission : Gender is = female
+2024-05-07 15:27:17,560 : INFO : test_e2e : Getting all the Card titles
+2024-05-07 15:27:17,588 : INFO : test_e2e : iphone X
+2024-05-07 15:27:17,594 : INFO : test_e2e : Samsung Note 8
+2024-05-07 15:27:17,600 : INFO : test_e2e : Nokia Edge
+2024-05-07 15:27:17,607 : INFO : test_e2e : Blackberry
+2024-05-07 15:27:23,186 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-07 15:29:47,713 : INFO : test_formSubmission : First Name is = konika
+2024-05-07 15:29:47,787 : INFO : test_formSubmission : Email is = kajal25@gmail.com
+2024-05-07 15:29:47,854 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-05-07 15:29:47,939 : INFO : test_formSubmission : Gender is = female
+2024-05-07 15:29:51,441 : INFO : test_e2e : Getting all the Card titles
+2024-05-07 15:29:51,463 : INFO : test_e2e : iphone X
+2024-05-07 15:29:51,478 : INFO : test_e2e : Samsung Note 8
+2024-05-07 15:29:51,484 : INFO : test_e2e : Nokia Edge
+2024-05-07 15:29:51,489 : INFO : test_e2e : Blackberry
+2024-05-07 15:55:23,963 : INFO : test_formSubmission : First Name is = kamal
+2024-05-07 15:55:24,044 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-05-07 15:55:24,067 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-05-07 15:55:24,301 : INFO : test_formSubmission : Gender is = Male
+2024-05-07 15:55:24,811 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-05-07 15:55:40,639 : INFO : test_e2e : Getting all the Card titles
+2024-05-07 15:55:40,653 : INFO : test_e2e : iphone X
+2024-05-07 15:55:40,665 : INFO : test_e2e : Samsung Note 8
+2024-05-07 15:55:40,676 : INFO : test_e2e : Nokia Edge
+2024-05-07 15:55:40,693 : INFO : test_e2e : Blackberry
+2024-05-07 15:55:47,602 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-07 16:00:06,106 : INFO : test_e2e : Getting all the Card titles
+2024-05-07 16:00:06,133 : INFO : test_e2e : iphone X
+2024-05-07 16:00:46,466 : INFO : test_e2e : Getting all the Card titles
+2024-05-07 16:00:46,489 : INFO : test_e2e : iphone X
+2024-05-07 16:04:38,733 : INFO : test_e2e : Getting all the Card titles
+2024-05-07 16:04:38,768 : INFO : test_e2e : iphone X
+2024-05-07 16:04:38,776 : INFO : test_e2e : Samsung Note 8
+2024-05-07 16:04:38,782 : INFO : test_e2e : Nokia Edge
+2024-05-07 16:04:38,839 : INFO : test_e2e : Blackberry
+2024-05-07 16:04:44,249 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-07 16:07:04,476 : INFO : test_e2e : Getting all the Card titles
+2024-05-07 16:07:04,504 : INFO : test_e2e : iphone X
+2024-05-07 16:07:04,512 : INFO : test_e2e : Samsung Note 8
+2024-05-07 16:07:04,519 : INFO : test_e2e : Nokia Edge
+2024-05-07 16:07:04,575 : INFO : test_e2e : Blackberry
+2024-05-07 16:07:10,100 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-07 16:13:44,059 : INFO : test_e2e : Getting all the Card titles
+2024-05-07 16:13:44,084 : INFO : test_e2e : iphone X
+2024-05-07 16:13:44,090 : INFO : test_e2e : Samsung Note 8
+2024-05-07 16:13:44,096 : INFO : test_e2e : Nokia Edge
+2024-05-07 16:13:44,141 : INFO : test_e2e : Blackberry
+2024-05-07 16:13:50,809 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-07 16:14:23,657 : INFO : test_e2e : Getting all the Card titles
+2024-05-07 16:14:23,684 : INFO : test_e2e : iphone X
+2024-05-07 16:14:23,693 : INFO : test_e2e : Samsung Note 8
+2024-05-07 16:14:23,702 : INFO : test_e2e : Nokia Edge
+2024-05-07 16:14:23,753 : INFO : test_e2e : Blackberry
+2024-05-07 16:14:35,221 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-07 16:14:56,224 : INFO : test_e2e : Getting all the Card titles
+2024-05-07 16:14:56,247 : INFO : test_e2e : iphone X
+2024-05-07 16:14:56,253 : INFO : test_e2e : Samsung Note 8
+2024-05-07 16:14:56,259 : INFO : test_e2e : Nokia Edge
+2024-05-07 16:14:56,305 : INFO : test_e2e : Blackberry
+2024-05-07 16:15:07,806 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-07 16:19:48,172 : INFO : test_e2e : Getting all the Card titles
+2024-05-07 16:19:48,193 : INFO : test_e2e : iphone X
+2024-05-07 16:19:48,199 : INFO : test_e2e : Samsung Note 8
+2024-05-07 16:19:48,205 : INFO : test_e2e : Nokia Edge
+2024-05-07 16:19:48,255 : INFO : test_e2e : Blackberry
+2024-05-07 16:19:59,714 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-07 16:29:04,781 : INFO : test_e2e : Getting all the Card titles
+2024-05-07 16:29:04,848 : INFO : test_e2e : iphone X
+2024-05-07 16:29:05,030 : INFO : test_e2e : Samsung Note 8
+2024-05-07 16:29:05,133 : INFO : test_e2e : Nokia Edge
+2024-05-07 16:29:05,237 : INFO : test_e2e : Blackberry
+2024-05-07 16:29:17,528 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-07 16:35:58,783 : INFO : test_formSubmission : First Name is = kamal
+2024-05-07 16:35:58,965 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-05-07 16:35:59,015 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-05-07 16:35:59,295 : INFO : test_formSubmission : Gender is = Male
+2024-05-07 16:35:59,846 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-05-07 16:36:16,913 : INFO : test_e2e : Getting all the Card titles
+2024-05-07 16:36:16,995 : INFO : test_e2e : iphone X
+2024-05-07 16:36:17,037 : INFO : test_e2e : Samsung Note 8
+2024-05-07 16:36:17,072 : INFO : test_e2e : Nokia Edge
+2024-05-07 16:36:17,382 : INFO : test_e2e : Blackberry
+2024-05-07 16:36:30,193 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-09 11:09:00,930 : INFO : test_e2e : Getting all the Card titles
+2024-05-09 11:09:00,962 : INFO : test_e2e : iphone X
+2024-05-09 11:09:00,969 : INFO : test_e2e : Samsung Note 8
+2024-05-09 11:09:00,973 : INFO : test_e2e : Nokia Edge
+2024-05-09 11:09:01,011 : INFO : test_e2e : Blackberry
+2024-05-09 11:09:12,498 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-09 15:26:41,456 : INFO : test_e2e : Getting all the Card titles
+2024-05-09 15:26:41,480 : INFO : test_e2e : iphone X
+2024-05-09 15:26:41,494 : INFO : test_e2e : Samsung Note 8
+2024-05-09 15:26:41,500 : INFO : test_e2e : Nokia Edge
+2024-05-09 15:26:41,540 : INFO : test_e2e : Blackberry
+2024-05-09 15:26:53,049 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-09 15:27:15,560 : INFO : test_formSubmission : First Name is = kamal
+2024-05-09 15:27:15,637 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-05-09 15:27:15,709 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-05-09 15:27:15,800 : INFO : test_formSubmission : Gender is = Male
+2024-05-09 15:27:15,926 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-05-16 15:07:30,260 : INFO : test_e2e : Getting all the Card titles
+2024-05-16 15:07:30,306 : INFO : test_e2e : iphone X
+2024-05-16 15:07:30,314 : INFO : test_e2e : Samsung Note 8
+2024-05-16 15:07:30,319 : INFO : test_e2e : Nokia Edge
+2024-05-16 15:07:30,363 : INFO : test_e2e : Blackberry
+2024-05-16 15:07:41,875 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-20 17:35:35,753 : INFO : test_formSubmission : First Name is = kamal
+2024-05-20 17:35:35,876 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-05-20 17:35:36,043 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-05-20 17:35:36,142 : INFO : test_formSubmission : Gender is = Male
+2024-05-20 17:35:36,508 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-05-20 17:35:45,654 : INFO : test_e2e : Getting all the Card titles
+2024-05-20 17:35:45,714 : INFO : test_e2e : iphone X
+2024-05-20 17:35:45,733 : INFO : test_e2e : Samsung Note 8
+2024-05-20 17:35:45,755 : INFO : test_e2e : Nokia Edge
+2024-05-20 17:35:45,891 : INFO : test_e2e : Blackberry
+2024-05-20 17:35:57,930 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-21 11:39:18,156 : INFO : test_formSubmission : First Name is = kamal
+2024-05-21 11:39:18,225 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-05-21 11:39:18,244 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-05-21 11:39:18,475 : INFO : test_formSubmission : Gender is = Male
+2024-05-21 11:39:18,978 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-05-21 11:39:34,234 : INFO : test_e2e : Getting all the Card titles
+2024-05-21 11:39:34,263 : INFO : test_e2e : iphone X
+2024-05-21 11:39:34,276 : INFO : test_e2e : Samsung Note 8
+2024-05-21 11:39:34,289 : INFO : test_e2e : Nokia Edge
+2024-05-21 11:39:34,526 : INFO : test_e2e : Blackberry
+2024-05-21 11:39:47,136 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-21 13:19:08,848 : INFO : test_e2e : Getting all the Card titles
+2024-05-21 13:19:08,871 : INFO : test_e2e : iphone X
+2024-05-21 13:19:08,876 : INFO : test_e2e : Samsung Note 8
+2024-05-21 13:19:08,917 : INFO : test_e2e : Nokia Edge
+2024-05-21 13:19:08,925 : INFO : test_e2e : Blackberry
+2024-05-21 13:19:20,389 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-27 15:04:23,925 : INFO : test_formSubmission : First Name is = kamal
+2024-05-27 15:04:24,004 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-05-27 15:04:24,079 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-05-27 15:04:24,185 : INFO : test_formSubmission : Gender is = Male
+2024-05-27 15:04:24,312 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-05-27 15:04:32,406 : INFO : test_e2e : Getting all the Card titles
+2024-05-27 15:04:32,437 : INFO : test_e2e : iphone X
+2024-05-27 15:04:32,444 : INFO : test_e2e : Samsung Note 8
+2024-05-27 15:04:32,481 : INFO : test_e2e : Nokia Edge
+2024-05-27 15:04:32,486 : INFO : test_e2e : Blackberry
+2024-05-27 15:04:44,069 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-27 16:19:50,152 : INFO : test_formSubmission : First Name is = kamal
+2024-05-27 16:19:50,222 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-05-27 16:19:50,309 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-05-27 16:19:50,390 : INFO : test_formSubmission : Gender is = Male
+2024-05-27 16:19:50,517 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-05-27 16:19:58,040 : INFO : test_e2e : Getting all the Card titles
+2024-05-27 16:19:58,063 : INFO : test_e2e : iphone X
+2024-05-27 16:19:58,071 : INFO : test_e2e : Samsung Note 8
+2024-05-27 16:19:58,117 : INFO : test_e2e : Nokia Edge
+2024-05-27 16:19:58,124 : INFO : test_e2e : Blackberry
+2024-05-27 16:20:09,697 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-27 16:20:53,721 : INFO : test_formSubmission : First Name is = kamal
+2024-05-27 16:20:53,805 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-05-27 16:20:53,910 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-05-27 16:20:54,000 : INFO : test_formSubmission : Gender is = Male
+2024-05-27 16:20:54,144 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-05-27 16:20:56,861 : INFO : test_e2e : Getting all the Card titles
+2024-05-27 16:20:56,885 : INFO : test_e2e : iphone X
+2024-05-27 16:20:56,891 : INFO : test_e2e : Samsung Note 8
+2024-05-27 16:20:56,935 : INFO : test_e2e : Nokia Edge
+2024-05-27 16:20:56,940 : INFO : test_e2e : Blackberry
+2024-05-27 16:21:08,514 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-27 16:37:19,305 : INFO : test_formSubmission : First Name is = kamal
+2024-05-27 16:37:19,381 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-05-27 16:37:19,464 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-05-27 16:37:19,550 : INFO : test_formSubmission : Gender is = Male
+2024-05-27 16:37:19,672 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-05-27 16:37:27,370 : INFO : test_e2e : Getting all the Card titles
+2024-05-27 16:37:27,394 : INFO : test_e2e : iphone X
+2024-05-27 16:37:27,399 : INFO : test_e2e : Samsung Note 8
+2024-05-27 16:37:27,441 : INFO : test_e2e : Nokia Edge
+2024-05-27 16:37:27,447 : INFO : test_e2e : Blackberry
+2024-05-27 16:37:39,058 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-28 10:48:49,645 : INFO : test_formSubmission : First Name is = kamal
+2024-05-28 10:48:49,720 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-05-28 10:48:49,797 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-05-28 10:48:49,885 : INFO : test_formSubmission : Gender is = Male
+2024-05-28 10:48:50,008 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-05-28 10:48:58,017 : INFO : test_e2e : Getting all the Card titles
+2024-05-28 10:48:58,040 : INFO : test_e2e : iphone X
+2024-05-28 10:48:58,052 : INFO : test_e2e : Samsung Note 8
+2024-05-28 10:48:58,090 : INFO : test_e2e : Nokia Edge
+2024-05-28 10:48:58,095 : INFO : test_e2e : Blackberry
+2024-05-28 10:49:09,643 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-28 11:00:43,524 : INFO : test_formSubmission : First Name is = kamal
+2024-05-28 11:00:43,615 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-05-28 11:00:43,700 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-05-28 11:00:43,797 : INFO : test_formSubmission : Gender is = Male
+2024-05-28 11:00:43,916 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-05-28 11:00:50,765 : INFO : test_e2e : Getting all the Card titles
+2024-05-28 11:00:50,790 : INFO : test_e2e : iphone X
+2024-05-28 11:00:50,797 : INFO : test_e2e : Samsung Note 8
+2024-05-28 11:00:50,840 : INFO : test_e2e : Nokia Edge
+2024-05-28 11:00:50,846 : INFO : test_e2e : Blackberry
+2024-05-28 11:01:02,354 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-28 11:01:58,449 : INFO : test_e2e : Getting all the Card titles
+2024-05-28 11:01:58,487 : INFO : test_e2e : iphone X
+2024-05-28 11:01:58,495 : INFO : test_e2e : Samsung Note 8
+2024-05-28 11:01:58,573 : INFO : test_e2e : Nokia Edge
+2024-05-28 11:01:58,580 : INFO : test_e2e : Blackberry
+2024-05-28 11:02:10,146 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-28 11:04:39,574 : INFO : test_formSubmission1 : First Name is = kamal
+2024-05-28 11:04:39,649 : INFO : test_formSubmission1 : Email is = kamal25@gmail.com
+2024-05-28 11:04:39,767 : INFO : test_formSubmission1 : Password is = 12@A0b2#
+2024-05-28 11:04:39,972 : INFO : test_formSubmission1 : Gender is = Male
+2024-05-28 11:04:40,167 : INFO : test_formSubmission1 : ×
+Success! The Form has been submitted successfully!.
+2024-05-28 11:04:45,895 : INFO : test_formSubmission2 : Getting all the Card titles
+2024-05-28 11:04:45,918 : INFO : test_formSubmission2 : iphone X
+2024-05-28 11:04:45,925 : INFO : test_formSubmission2 : Samsung Note 8
+2024-05-28 11:04:45,974 : INFO : test_formSubmission2 : Nokia Edge
+2024-05-28 11:04:45,983 : INFO : test_formSubmission2 : Blackberry
+2024-05-28 11:04:57,557 : INFO : test_formSubmission2 : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-28 11:05:30,835 : INFO : test_formSubmission1 : First Name is = kamal
+2024-05-28 11:05:30,909 : INFO : test_formSubmission1 : Email is = kamal25@gmail.com
+2024-05-28 11:05:30,998 : INFO : test_formSubmission1 : Password is = 12@A0b2#
+2024-05-28 11:05:31,108 : INFO : test_formSubmission1 : Gender is = Male
+2024-05-28 11:05:31,249 : INFO : test_formSubmission1 : ×
+Success! The Form has been submitted successfully!.
+2024-05-28 11:06:29,441 : INFO : test_formSubmission1 : First Name is = kamal
+2024-05-28 11:06:29,510 : INFO : test_formSubmission1 : Email is = kamal25@gmail.com
+2024-05-28 11:06:29,590 : INFO : test_formSubmission1 : Password is = 12@A0b2#
+2024-05-28 11:06:29,690 : INFO : test_formSubmission1 : Gender is = Male
+2024-05-28 11:06:29,850 : INFO : test_formSubmission1 : ×
+Success! The Form has been submitted successfully!.
+2024-05-28 11:07:14,391 : INFO : test_formSubmission2 : Getting all the Card titles
+2024-05-28 11:07:14,421 : INFO : test_formSubmission2 : iphone X
+2024-05-28 11:07:14,427 : INFO : test_formSubmission2 : Samsung Note 8
+2024-05-28 11:07:14,464 : INFO : test_formSubmission2 : Nokia Edge
+2024-05-28 11:07:14,469 : INFO : test_formSubmission2 : Blackberry
+2024-05-28 11:07:26,057 : INFO : test_formSubmission2 : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-28 11:15:41,881 : INFO : test_formSubmission1 : First Name is = kamal
+2024-05-28 11:15:41,961 : INFO : test_formSubmission1 : Email is = kamal25@gmail.com
+2024-05-28 11:15:42,043 : INFO : test_formSubmission1 : Password is = 12@A0b2#
+2024-05-28 11:15:42,129 : INFO : test_formSubmission1 : Gender is = Male
+2024-05-28 11:15:42,254 : INFO : test_formSubmission1 : ×
+Success! The Form has been submitted successfully!.
+2024-05-28 11:15:48,049 : INFO : test_formSubmission2 : Getting all the Card titles
+2024-05-28 11:15:48,070 : INFO : test_formSubmission2 : iphone X
+2024-05-28 11:15:48,075 : INFO : test_formSubmission2 : Samsung Note 8
+2024-05-28 11:15:48,122 : INFO : test_formSubmission2 : Nokia Edge
+2024-05-28 11:15:48,128 : INFO : test_formSubmission2 : Blackberry
+2024-05-28 11:15:59,714 : INFO : test_formSubmission2 : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-28 11:17:32,077 : INFO : test_formSubmission1 : First Name is = kamal
+2024-05-28 11:17:32,152 : INFO : test_formSubmission1 : Email is = kamal25@gmail.com
+2024-05-28 11:17:32,233 : INFO : test_formSubmission1 : Password is = 12@A0b2#
+2024-05-28 11:17:32,316 : INFO : test_formSubmission1 : Gender is = Male
+2024-05-28 11:17:32,445 : INFO : test_formSubmission1 : ×
+Success! The Form has been submitted successfully!.
+2024-05-28 11:19:07,063 : INFO : test_formSubmission1 : First Name is = kamal
+2024-05-28 11:19:07,141 : INFO : test_formSubmission1 : Email is = kamal25@gmail.com
+2024-05-28 11:19:07,220 : INFO : test_formSubmission1 : Password is = 12@A0b2#
+2024-05-28 11:19:07,306 : INFO : test_formSubmission1 : Gender is = Male
+2024-05-28 11:19:07,429 : INFO : test_formSubmission1 : ×
+Success! The Form has been submitted successfully!.
+2024-05-28 11:19:13,296 : INFO : test_formSubmission2 : Getting all the Card titles
+2024-05-28 11:19:13,316 : INFO : test_formSubmission2 : iphone X
+2024-05-28 11:19:13,328 : INFO : test_formSubmission2 : Samsung Note 8
+2024-05-28 11:19:13,374 : INFO : test_formSubmission2 : Nokia Edge
+2024-05-28 11:19:13,379 : INFO : test_formSubmission2 : Blackberry
+2024-05-28 11:19:24,976 : INFO : test_formSubmission2 : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-28 11:20:40,020 : INFO : test_formSubmission1 : First Name is = kamal
+2024-05-28 11:20:40,095 : INFO : test_formSubmission1 : Email is = kamal25@gmail.com
+2024-05-28 11:20:40,174 : INFO : test_formSubmission1 : Password is = 12@A0b2#
+2024-05-28 11:20:40,272 : INFO : test_formSubmission1 : Gender is = Male
+2024-05-28 11:20:40,409 : INFO : test_formSubmission1 : ×
+Success! The Form has been submitted successfully!.
+2024-05-28 11:20:46,184 : INFO : test_formSubmission2 : Getting all the Card titles
+2024-05-28 11:20:46,203 : INFO : test_formSubmission2 : iphone X
+2024-05-28 11:20:46,211 : INFO : test_formSubmission2 : Samsung Note 8
+2024-05-28 11:20:46,215 : INFO : test_formSubmission2 : Nokia Edge
+2024-05-28 11:20:46,221 : INFO : test_formSubmission2 : Blackberry
+2024-05-28 11:20:57,798 : INFO : test_formSubmission2 : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-28 11:22:15,017 : INFO : test_formSubmission1 : First Name is = kamal
+2024-05-28 11:22:15,098 : INFO : test_formSubmission1 : Email is = kamal25@gmail.com
+2024-05-28 11:22:15,176 : INFO : test_formSubmission1 : Password is = 12@A0b2#
+2024-05-28 11:22:15,266 : INFO : test_formSubmission1 : Gender is = Male
+2024-05-28 11:22:15,397 : INFO : test_formSubmission1 : ×
+Success! The Form has been submitted successfully!.
+2024-05-28 11:22:21,024 : INFO : test_formSubmission2 : Getting all the Card titles
+2024-05-28 11:22:21,043 : INFO : test_formSubmission2 : iphone X
+2024-05-28 11:22:21,052 : INFO : test_formSubmission2 : Samsung Note 8
+2024-05-28 11:22:21,113 : INFO : test_formSubmission2 : Nokia Edge
+2024-05-28 11:22:21,124 : INFO : test_formSubmission2 : Blackberry
+2024-05-28 11:22:32,713 : INFO : test_formSubmission2 : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-28 11:23:16,283 : INFO : test_formSubmission1 : First Name is = kamal
+2024-05-28 11:23:16,359 : INFO : test_formSubmission1 : Email is = kamal25@gmail.com
+2024-05-28 11:23:16,441 : INFO : test_formSubmission1 : Password is = 12@A0b2#
+2024-05-28 11:23:16,523 : INFO : test_formSubmission1 : Gender is = Male
+2024-05-28 11:23:16,650 : INFO : test_formSubmission1 : ×
+Success! The Form has been submitted successfully!.
+2024-05-28 11:23:22,405 : INFO : test_formSubmission2 : Getting all the Card titles
+2024-05-28 11:23:22,425 : INFO : test_formSubmission2 : iphone X
+2024-05-28 11:23:22,431 : INFO : test_formSubmission2 : Samsung Note 8
+2024-05-28 11:23:22,481 : INFO : test_formSubmission2 : Nokia Edge
+2024-05-28 11:23:22,486 : INFO : test_formSubmission2 : Blackberry
+2024-05-28 11:36:56,335 : INFO : test_formSubmission1 : First Name is = kamal
+2024-05-28 11:36:56,418 : INFO : test_formSubmission1 : Email is = kamal25@gmail.com
+2024-05-28 11:36:56,518 : INFO : test_formSubmission1 : Password is = 12@A0b2#
+2024-05-28 11:36:56,604 : INFO : test_formSubmission1 : Gender is = Male
+2024-05-28 11:36:56,722 : INFO : test_formSubmission1 : ×
+Success! The Form has been submitted successfully!.
+2024-05-28 11:37:03,249 : INFO : test_formSubmission2 : Getting all the Card titles
+2024-05-28 11:37:03,269 : INFO : test_formSubmission2 : iphone X
+2024-05-28 11:37:03,274 : INFO : test_formSubmission2 : Samsung Note 8
+2024-05-28 11:37:03,316 : INFO : test_formSubmission2 : Nokia Edge
+2024-05-28 11:37:03,322 : INFO : test_formSubmission2 : Blackberry
+2024-05-28 11:37:56,298 : INFO : test_formSubmission1 : First Name is = kamal
+2024-05-28 11:37:56,386 : INFO : test_formSubmission1 : Email is = kamal25@gmail.com
+2024-05-28 11:37:56,487 : INFO : test_formSubmission1 : Password is = 12@A0b2#
+2024-05-28 11:37:56,589 : INFO : test_formSubmission1 : Gender is = Male
+2024-05-28 11:37:56,714 : INFO : test_formSubmission1 : ×
+Success! The Form has been submitted successfully!.
+2024-05-28 11:38:03,089 : INFO : test_formSubmission2 : Getting all the Card titles
+2024-05-28 11:38:03,110 : INFO : test_formSubmission2 : iphone X
+2024-05-28 11:38:03,122 : INFO : test_formSubmission2 : Samsung Note 8
+2024-05-28 11:38:03,166 : INFO : test_formSubmission2 : Nokia Edge
+2024-05-28 11:38:03,173 : INFO : test_formSubmission2 : Blackberry
+2024-05-28 11:38:14,737 : INFO : test_formSubmission2 : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-28 11:38:29,572 : INFO : test_formSubmission1 : First Name is = kamal
+2024-05-28 11:38:29,642 : INFO : test_formSubmission1 : Email is = kamal25@gmail.com
+2024-05-28 11:38:29,720 : INFO : test_formSubmission1 : Password is = 12@A0b2#
+2024-05-28 11:38:29,800 : INFO : test_formSubmission1 : Gender is = Male
+2024-05-28 11:38:29,923 : INFO : test_formSubmission1 : ×
+Success! The Form has been submitted successfully!.
+2024-05-28 11:38:37,198 : INFO : test_formSubmission2 : Getting all the Card titles
+2024-05-28 11:38:37,219 : INFO : test_formSubmission2 : iphone X
+2024-05-28 11:38:37,229 : INFO : test_formSubmission2 : Samsung Note 8
+2024-05-28 11:38:37,301 : INFO : test_formSubmission2 : Nokia Edge
+2024-05-28 11:38:37,310 : INFO : test_formSubmission2 : Blackberry
+2024-05-28 11:38:48,798 : INFO : test_formSubmission2 : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-28 11:39:57,115 : INFO : test_formSubmission1 : First Name is = kamal
+2024-05-28 11:39:57,210 : INFO : test_formSubmission1 : Email is = kamal25@gmail.com
+2024-05-28 11:39:57,302 : INFO : test_formSubmission1 : Password is = 12@A0b2#
+2024-05-28 11:39:57,400 : INFO : test_formSubmission1 : Gender is = Male
+2024-05-28 11:39:57,522 : INFO : test_formSubmission1 : ×
+Success! The Form has been submitted successfully!.
+2024-05-28 11:40:04,063 : INFO : test_formSubmission2 : Getting all the Card titles
+2024-05-28 11:40:04,085 : INFO : test_formSubmission2 : iphone X
+2024-05-28 11:40:04,092 : INFO : test_formSubmission2 : Samsung Note 8
+2024-05-28 11:40:04,130 : INFO : test_formSubmission2 : Nokia Edge
+2024-05-28 11:40:04,135 : INFO : test_formSubmission2 : Blackberry
+2024-05-28 11:40:15,613 : INFO : test_formSubmission2 : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-28 11:41:21,364 : INFO : test_formSubmission1 : First Name is = kamal
+2024-05-28 11:41:21,439 : INFO : test_formSubmission1 : Email is = kamal25@gmail.com
+2024-05-28 11:41:21,532 : INFO : test_formSubmission1 : Password is = 12@A0b2#
+2024-05-28 11:41:21,617 : INFO : test_formSubmission1 : Gender is = Male
+2024-05-28 11:41:21,745 : INFO : test_formSubmission1 : ×
+Success! The Form has been submitted successfully!.
+2024-05-28 11:41:27,774 : INFO : test_formSubmission2 : Getting all the Card titles
+2024-05-28 11:41:27,792 : INFO : test_formSubmission2 : iphone X
+2024-05-28 11:41:27,800 : INFO : test_formSubmission2 : Samsung Note 8
+2024-05-28 11:41:27,848 : INFO : test_formSubmission2 : Nokia Edge
+2024-05-28 11:41:27,854 : INFO : test_formSubmission2 : Blackberry
+2024-05-28 11:41:39,437 : INFO : test_formSubmission2 : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-28 11:44:52,286 : INFO : test_formSubmission1 : First Name is = kamal
+2024-05-28 11:44:52,378 : INFO : test_formSubmission1 : Email is = kamal25@gmail.com
+2024-05-28 11:44:52,473 : INFO : test_formSubmission1 : Password is = 12@A0b2#
+2024-05-28 11:44:52,570 : INFO : test_formSubmission1 : Gender is = Male
+2024-05-28 11:44:52,697 : INFO : test_formSubmission1 : ×
+Success! The Form has been submitted successfully!.
+2024-05-28 11:44:58,988 : INFO : test_formSubmission2 : Getting all the Card titles
+2024-05-28 11:44:59,009 : INFO : test_formSubmission2 : iphone X
+2024-05-28 11:44:59,014 : INFO : test_formSubmission2 : Samsung Note 8
+2024-05-28 11:44:59,051 : INFO : test_formSubmission2 : Nokia Edge
+2024-05-28 11:44:59,057 : INFO : test_formSubmission2 : Blackberry
+2024-05-28 11:45:10,552 : INFO : test_formSubmission2 : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-28 11:45:56,784 : INFO : test_formSubmission1 : First Name is = kamal
+2024-05-28 11:45:56,882 : INFO : test_formSubmission1 : Email is = kamal25@gmail.com
+2024-05-28 11:45:56,978 : INFO : test_formSubmission1 : Password is = 12@A0b2#
+2024-05-28 11:45:57,086 : INFO : test_formSubmission1 : Gender is = Male
+2024-05-28 11:45:57,235 : INFO : test_formSubmission1 : ×
+Success! The Form has been submitted successfully!.
+2024-05-28 11:46:04,785 : INFO : test_formSubmission2 : Getting all the Card titles
+2024-05-28 11:46:04,814 : INFO : test_formSubmission2 : iphone X
+2024-05-28 11:46:04,825 : INFO : test_formSubmission2 : Samsung Note 8
+2024-05-28 11:46:04,923 : INFO : test_formSubmission2 : Nokia Edge
+2024-05-28 11:46:04,933 : INFO : test_formSubmission2 : Blackberry
+2024-05-28 11:46:16,452 : INFO : test_formSubmission2 : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-28 11:53:07,974 : INFO : test_formSubmission1 : First Name is = kamal
+2024-05-28 11:53:08,069 : INFO : test_formSubmission1 : Email is = kamal25@gmail.com
+2024-05-28 11:53:08,163 : INFO : test_formSubmission1 : Password is = 12@A0b2#
+2024-05-28 11:53:08,274 : INFO : test_formSubmission1 : Gender is = Male
+2024-05-28 11:53:08,400 : INFO : test_formSubmission1 : ×
+Success! The Form has been submitted successfully!.
+2024-05-28 11:53:14,329 : INFO : test_formSubmission2 : Getting all the Card titles
+2024-05-28 11:53:14,346 : INFO : test_formSubmission2 : iphone X
+2024-05-28 11:53:14,354 : INFO : test_formSubmission2 : Samsung Note 8
+2024-05-28 11:53:14,400 : INFO : test_formSubmission2 : Nokia Edge
+2024-05-28 11:53:14,406 : INFO : test_formSubmission2 : Blackberry
+2024-05-28 11:53:25,948 : INFO : test_formSubmission2 : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-28 11:55:34,393 : INFO : test_formSubmission1 : First Name is = kamal
+2024-05-28 11:55:34,456 : INFO : test_formSubmission1 : Email is = kamal25@gmail.com
+2024-05-28 11:55:34,528 : INFO : test_formSubmission1 : Password is = 12@A0b2#
+2024-05-28 11:55:34,613 : INFO : test_formSubmission1 : Gender is = Male
+2024-05-28 11:55:34,734 : INFO : test_formSubmission1 : ×
+Success! The Form has been submitted successfully!.
+2024-05-28 11:55:40,461 : INFO : test_formSubmission2 : Getting all the Card titles
+2024-05-28 11:55:40,483 : INFO : test_formSubmission2 : iphone X
+2024-05-28 11:55:40,490 : INFO : test_formSubmission2 : Samsung Note 8
+2024-05-28 11:55:40,536 : INFO : test_formSubmission2 : Nokia Edge
+2024-05-28 11:55:40,542 : INFO : test_formSubmission2 : Blackberry
+2024-05-28 11:55:52,037 : INFO : test_formSubmission2 : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-28 11:56:23,422 : INFO : test_formSubmission1 : First Name is = kamal
+2024-05-28 11:56:23,504 : INFO : test_formSubmission1 : Email is = kamal25@gmail.com
+2024-05-28 11:56:23,607 : INFO : test_formSubmission1 : Password is = 12@A0b2#
+2024-05-28 11:56:23,702 : INFO : test_formSubmission1 : Gender is = Male
+2024-05-28 11:56:23,831 : INFO : test_formSubmission1 : ×
+Success! The Form has been submitted successfully!.
+2024-05-28 11:56:30,524 : INFO : test_formSubmission2 : Getting all the Card titles
+2024-05-28 11:56:30,548 : INFO : test_formSubmission2 : iphone X
+2024-05-28 11:56:30,554 : INFO : test_formSubmission2 : Samsung Note 8
+2024-05-28 11:56:30,594 : INFO : test_formSubmission2 : Nokia Edge
+2024-05-28 11:56:30,601 : INFO : test_formSubmission2 : Blackberry
+2024-05-28 11:56:42,087 : INFO : test_formSubmission2 : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-28 12:00:11,195 : INFO : test_formSubmission1 : First Name is = kamal
+2024-05-28 12:00:11,267 : INFO : test_formSubmission1 : Email is = kamal25@gmail.com
+2024-05-28 12:00:11,344 : INFO : test_formSubmission1 : Password is = 12@A0b2#
+2024-05-28 12:00:11,428 : INFO : test_formSubmission1 : Gender is = Male
+2024-05-28 12:00:11,549 : INFO : test_formSubmission1 : ×
+Success! The Form has been submitted successfully!.
+2024-05-28 12:00:17,924 : INFO : test_formSubmission2 : Getting all the Card titles
+2024-05-28 12:00:17,944 : INFO : test_formSubmission2 : iphone X
+2024-05-28 12:00:17,950 : INFO : test_formSubmission2 : Samsung Note 8
+2024-05-28 12:00:17,988 : INFO : test_formSubmission2 : Nokia Edge
+2024-05-28 12:00:17,994 : INFO : test_formSubmission2 : Blackberry
+2024-05-28 12:00:29,511 : INFO : test_formSubmission2 : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-28 12:02:20,433 : INFO : test_formSubmission1 : First Name is = kamal
+2024-05-28 12:02:20,572 : INFO : test_formSubmission1 : Email is = kamal25@gmail.com
+2024-05-28 12:02:20,681 : INFO : test_formSubmission1 : Password is = 12@A0b2#
+2024-05-28 12:02:20,808 : INFO : test_formSubmission1 : Gender is = Male
+2024-05-28 12:02:20,965 : INFO : test_formSubmission1 : ×
+Success! The Form has been submitted successfully!.
+2024-05-28 12:02:26,647 : INFO : test_formSubmission2 : Getting all the Card titles
+2024-05-28 12:02:26,675 : INFO : test_formSubmission2 : iphone X
+2024-05-28 12:02:26,681 : INFO : test_formSubmission2 : Samsung Note 8
+2024-05-28 12:02:26,737 : INFO : test_formSubmission2 : Nokia Edge
+2024-05-28 12:02:26,745 : INFO : test_formSubmission2 : Blackberry
+2024-05-28 12:02:38,232 : INFO : test_formSubmission2 : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-28 12:31:42,939 : INFO : test_formSubmission1 : First Name is = kamal
+2024-05-28 12:31:43,011 : INFO : test_formSubmission1 : Email is = kamal25@gmail.com
+2024-05-28 12:31:43,085 : INFO : test_formSubmission1 : Password is = 12@A0b2#
+2024-05-28 12:31:43,173 : INFO : test_formSubmission1 : Gender is = Male
+2024-05-28 12:31:43,299 : INFO : test_formSubmission1 : ×
+Success! The Form has been submitted successfully!.
+2024-05-28 12:31:49,187 : INFO : test_formSubmission2 : Getting all the Card titles
+2024-05-28 12:31:49,209 : INFO : test_formSubmission2 : iphone X
+2024-05-28 12:31:49,216 : INFO : test_formSubmission2 : Samsung Note 8
+2024-05-28 12:31:49,254 : INFO : test_formSubmission2 : Nokia Edge
+2024-05-28 12:31:49,261 : INFO : test_formSubmission2 : Blackberry
+2024-05-28 12:32:00,777 : INFO : test_formSubmission2 : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-28 13:05:35,505 : INFO : test_formSubmission1 : First Name is = kamal
+2024-05-28 13:05:35,595 : INFO : test_formSubmission1 : Email is = kamal25@gmail.com
+2024-05-28 13:05:35,682 : INFO : test_formSubmission1 : Password is = 12@A0b2#
+2024-05-28 13:05:35,776 : INFO : test_formSubmission1 : Gender is = Male
+2024-05-28 13:05:35,945 : INFO : test_formSubmission1 : ×
+Success! The Form has been submitted successfully!.
+2024-05-28 15:07:32,737 : INFO : test_formSubmission1 : First Name is = kamal
+2024-05-28 15:07:32,823 : INFO : test_formSubmission1 : Email is = kamal25@gmail.com
+2024-05-28 15:07:32,919 : INFO : test_formSubmission1 : Password is = 12@A0b2#
+2024-05-28 15:07:33,021 : INFO : test_formSubmission1 : Gender is = Male
+2024-05-28 15:07:33,150 : INFO : test_formSubmission1 : ×
+Success! The Form has been submitted successfully!.
+2024-05-28 15:07:38,976 : INFO : test_formSubmission2 : Getting all the Card titles
+2024-05-28 15:07:38,999 : INFO : test_formSubmission2 : iphone X
+2024-05-28 15:07:39,005 : INFO : test_formSubmission2 : Samsung Note 8
+2024-05-28 15:07:39,055 : INFO : test_formSubmission2 : Nokia Edge
+2024-05-28 15:07:39,060 : INFO : test_formSubmission2 : Blackberry
+2024-05-28 15:07:50,559 : INFO : test_formSubmission2 : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-05-29 12:08:35,060 : INFO : test_e2e : Getting all the Card titles
+2024-05-29 12:08:35,108 : INFO : test_e2e : iphone X
+2024-05-29 12:08:35,120 : INFO : test_e2e : Samsung Note 8
+2024-05-29 12:08:35,202 : INFO : test_e2e : Nokia Edge
+2024-05-29 12:08:35,220 : INFO : test_e2e : Blackberry
+2024-05-29 12:08:47,142 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).

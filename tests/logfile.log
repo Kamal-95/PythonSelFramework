@@ -1,0 +1,42 @@
+2024-04-16 13:18:59,501 : INFO : test_e2e : Getting all the Card titles
+2024-04-16 13:18:59,534 : INFO : test_e2e : iphone X
+2024-04-16 13:18:59,541 : INFO : test_e2e : Samsung Note 8
+2024-04-16 13:18:59,547 : INFO : test_e2e : Nokia Edge
+2024-04-16 13:18:59,552 : INFO : test_e2e : Blackberry
+2024-04-16 13:19:05,094 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-16 13:31:07,420 : INFO : test_e2e : Getting all the Card titles
+2024-04-16 13:31:07,452 : INFO : test_e2e : iphone X
+2024-04-16 13:31:07,468 : INFO : test_e2e : Samsung Note 8
+2024-04-16 13:31:07,474 : INFO : test_e2e : Nokia Edge
+2024-04-16 13:31:07,479 : INFO : test_e2e : Blackberry
+2024-04-16 13:31:13,077 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-16 13:31:47,784 : INFO : test_formSubmission : First Name is = kajal
+2024-04-16 13:31:53,321 : INFO : test_formSubmission : First Name is = kamal
+2024-04-16 13:31:53,321 : INFO : test_formSubmission : First Name is = kamal
+2024-04-16 13:32:01,325 : INFO : test_e2e : Getting all the Card titles
+2024-04-16 13:32:01,347 : INFO : test_e2e : iphone X
+2024-04-16 13:32:01,354 : INFO : test_e2e : Samsung Note 8
+2024-04-16 13:32:01,359 : INFO : test_e2e : Nokia Edge
+2024-04-16 13:32:01,364 : INFO : test_e2e : Blackberry
+2024-04-16 13:32:06,916 : INFO : test_e2e : Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-16 13:41:30,319 : INFO : test_formSubmission : First Name is = kajal
+2024-04-16 13:41:30,398 : INFO : test_formSubmission : Email is = kajal25@gmail.com
+2024-04-16 13:41:30,467 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-16 13:41:30,547 : INFO : test_formSubmission : Gender is = Female
+2024-04-16 13:41:30,693 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-16 13:41:35,928 : INFO : test_formSubmission : First Name is = kamal
+2024-04-16 13:41:35,928 : INFO : test_formSubmission : First Name is = kamal
+2024-04-16 13:41:35,969 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-04-16 13:41:35,969 : INFO : test_formSubmission : Email is = kamal25@gmail.com
+2024-04-16 13:41:36,032 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-16 13:41:36,032 : INFO : test_formSubmission : Password is = 12@A0b2#
+2024-04-16 13:41:36,103 : INFO : test_formSubmission : Gender is = Male
+2024-04-16 13:41:36,103 : INFO : test_formSubmission : Gender is = Male
+2024-04-16 13:41:36,206 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2024-04-16 13:41:36,206 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
